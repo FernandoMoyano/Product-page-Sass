@@ -5,7 +5,7 @@
 >This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## _View Deployment_
-[Go to the site](https://fernandomoyano.github.io/Product-page-sass/)
+[Go to the site](https://fernandomoyano.github.io/Product-page-Sass/)
 >GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
 ## _Langiages_
